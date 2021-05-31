@@ -1,0 +1,3 @@
+/ae/content/**
+!/ae/content/**/
+!/ae/content/**/.gitkeep
